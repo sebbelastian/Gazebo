@@ -1,0 +1,1 @@
+controller_joint_names: ['wheel_back_spin', 'front_wheel_right_steer', 'front_wheel_left_steer', ]
